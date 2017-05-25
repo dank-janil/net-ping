@@ -6,4 +6,4 @@ Dependenencies:
 * pyfiglet (why)
 * pyping
 
-usage : python net-ping network/subnet
+usage : python net-ping.py network/subnet
